@@ -151,7 +151,7 @@ and a missing Visual C++ runtime.
 
 ---
 
-*Rainbow Six Siege · Updated 2026-11-04 · Shared under the MIT License*
+*Rainbow Six Siege · Updated 2026-11-05 · Shared under the MIT License*
 
 
-*Last updated: 2026-11-04*
+*Last updated: 2026-11-05*
